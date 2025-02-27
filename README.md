@@ -51,5 +51,7 @@ Conclusion
 This dashboard highlights actionable patterns in UK road accidents, emphasizing the need for targeted policies and public education. By addressing high-risk demographics, vehicle safety, and environmental factors, stakeholders can reduce casualties and improve road safety outcomes. Future iterations could incorporate real-time data to enable dynamic interventions.
 
 #Dashboard 
+![Road dashboard](https://github.com/user-attachments/assets/dfd3b353-14e8-4000-9545-d99748cc50dc)
+
 
 
